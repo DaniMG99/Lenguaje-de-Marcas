@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipos>
+    <equipo>
+        <nombre>Real Madrid CF</nombre>
+        <ciudad>Madrid</ciudad>
+        <entrenador></entrenador>
+        <jugadores>
+            <jugador posicion="Extremos Izquierdo">
+                <nombre>Vinicius Junior</nombre>
+                <nacionalidad>Brasil</nacionalidad>
+            </jugador>
+
+            <jugador posicion="Delantero Centro">
+                <nombre>Joselu</nombre>
+                <nacionalidad>España</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+
+    <equipo>
+        <nombre>Real Betis Balompie</nombre>
+        <ciudad>Sevilla</ciudad>
+        <entrenador></entrenador>
+        <jugadores>
+            <jugador posicion= "Centrocampista">
+                <nombre>Isco</nombre>
+                <nacionalidad>España</nacionalidad>
+            </jugador>
+
+            <jugador posicion= "Portero">
+                <nombre>Fran Vieites</nombre>
+                <nacionalidad>España</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+
+</equipos>
