@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE conjunto SYSTEM "conjunto.dtd">
+
+<conjunto>
+    <articulo>
+        <nombre>Ratón HOTLIFE Inalámbrico</nombre>
+        <precio>15,00€</precio>
+        <codigo>5</codigo>
+        <fabricante>HOTLIFE</fabricante>
+    </articulo>
+    <articulo>
+        <nombre>Teclado Trust Taro</nombre>
+        <precio>10,00€</precio>
+        <codigo>15</codigo>
+        <fabricante>Trust</fabricante>
+    </articulo>
+</conjunto> 
