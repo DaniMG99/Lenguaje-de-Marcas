@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fichas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<fichas xmlns:xsi="http://www.w3.org/2001/XMLSchema"
 xsi:noNamespaceSchemaLocation="fichas.xsd">
-   <ficha numero="1">
+   <ficha numero="01" letra="Z">
+      <codigo>11</codigo>
       <nombre>Ana Sanz Tin</nombre>
-      <edad>22</edad>
    </ficha>
-   <ficha numero="2">
+   <ficha numero="02">
+      <codigo>12</codigo>
       <nombre>Iker Rubio Mol</nombre>
-      <edad>23</edad>
    </ficha>
 </fichas>
